@@ -55,7 +55,7 @@
     "istanbul": "^1.1.0-alpha.1",
     "mocha": "^5.2.0"
   },
-  "main": "./lib/bcoin.js",
+  "main": "./lib/bcoin-browser.js",
   "bin": {
     "bcoin": "./bin/bcoin",
     "bcoin-node": "./bin/node",
